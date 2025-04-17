@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-jose
+passlib
+ldap3
+jinja2
+python-multipart
+httpx
+itsdangerous
+pycryptodome==3.20.0
